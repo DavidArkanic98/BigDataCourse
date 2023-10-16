@@ -47,14 +47,14 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 
 ### M4 - Day 5 - Friday
 
-- [David Muñoz - Ejercicios Repaso Python]()
+- [David Muñoz - Ejercicios Repaso Python](https://github.com/DavidArkanic98/BigDataCourse/blob/main/Day%205/David%20Mu%C3%B1oz%20Ejercicios%20Repaso%20Python.ipynb)
 > Notebook con ejercicios de repaso de los conceptos básicos de Python
 
 ## Module 6 - Cloud & Big Data Architectures
 
 ### M6 - Day 1 - Monday
 
-- [David Muñoz - M6 - 01 - Funciones](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Module%206/Day%201/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M6%20-%2001%20-%20Funciones.ipynb)
+- [David Muñoz - M6 - 01 - Funciones]()
 > Notebook para practicar las funciones en Python
-- [David Muñoz - M6 - 02 - Clases](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Module%206/Day%201/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M6%20-%2002%20-%20Clases.ipynb)
+- [David Muñoz - M6 - 02 - Clases]()
 > Notebook de introducción para practicar las clases en Python
