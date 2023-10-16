@@ -24,7 +24,7 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 
 ### M4 - Day 2 - Tuesday
 
-- [David Muñoz - M4 - 06 - Bucles](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%202/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M4%20-%2006%20-%20Bucles.ipynb)
+- [David Muñoz - M4 - 06 - Bucles](https://github.com/DavidArkanic98/BigDataCourse/blob/main/Day%202/David%20Mu%C3%B1oz%20M4%20-%2006%20-%20Bucles.ipynb)
 > Notebook con sentencias de código para practicar los bucles FOR y WHILE en Pyhton
 - [David Muñoz - M4 - 10 - Pandas](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%202/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M4%20-%2010%20-%20Pandas.ipynb)
 > Notebook para comenzar a entender y utilizar la librería Pandas de Python
