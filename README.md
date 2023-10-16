@@ -31,11 +31,11 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 
 ### M4 - Day 3 - Wednesday
 
-- [David Muñoz -  SpaceX - 4 - EDA with Data Visualization](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%203/%C3%81lvaro%20Hern%C3%A1ndez%20-%20%20SpaceX%20-%204%20-%20EDA%20with%20Data%20Visualization.ipynb)
+- [David Muñoz -  SpaceX - 4 - EDA with Data Visualization](https://github.com/DavidArkanic98/BigDataCourse/blob/main/Day%203/David%20Mu%C3%B1oz%20SpaceX%20-%204%20-%20EDA%20with%20Data%20Visualization.ipynb)
 > Notebook con código para practicar la visualización de datos de SpaceX mediante las librerías de Matplotlib y Seaborn
-- [David Muñoz - M4 - 09 - Folium](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%203/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M4%20-%2009%20-%20Folium.ipynb)
+- [David Muñoz - M4 - 09 - Folium](https://github.com/DavidArkanic98/BigDataCourse/blob/main/Day%203/David%20Mu%C3%B1oz%20M5%20-%2009%20-%20Folium.ipynb)
 > Notebook con código para practicar la visualización de datos con mapas mediante la librería Folium
-- [David Muñoz - Prophet v2 - Predecir el valor de Bitcoin](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%203/%C3%81lvaro%20Hern%C3%A1ndez%20-%20Prophet%20v2%20-%20Predecir%20el%20valor%20de%20Bitcoin.ipynb)
+- [David Muñoz - Prophet v2 - Predecir el valor de Bitcoin](https://github.com/DavidArkanic98/BigDataCourse/blob/main/Day%203/David_Mu%C3%B1oz_Prophet_v2_Predecir_el_valor_de_Bitcoin.ipynb)
 > Notebook con el código de Machine Learning utilizado para predecir el valor del Bitcoin hasta dentro de un año basándose en su valor desde 2016 hasta hoy
 
 ### M4 - Day 4 - Thursday
