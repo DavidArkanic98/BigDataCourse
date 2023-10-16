@@ -1,4 +1,4 @@
-# Big Data The Valley Course
+# Big Data Course
 Repository with some codes from the Big Data Valley Course in Granada (2023)
 
 ## Índice
