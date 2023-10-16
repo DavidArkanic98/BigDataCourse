@@ -54,7 +54,7 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 
 ### M6 - Day 1 - Monday
 
-- [David Muñoz - M6 - 01 - Funciones]()
+- [David Muñoz - M6 - 01 - Funciones](https://github.com/DavidArkanic98/BigDataCourse/blob/main/Block%206_Day1/David_Mu%C3%B1oz_M6_01_Funciones.ipynb)
 > Notebook para practicar las funciones en Python
-- [David Muñoz - M6 - 02 - Clases]()
+- [David Muñoz - M6 - 02 - Clases](https://github.com/DavidArkanic98/BigDataCourse/blob/main/Block%206_Day1/David_Mu%C3%B1oz_M6_02_Clases.ipynb)
 > Notebook de introducción para practicar las clases en Python
