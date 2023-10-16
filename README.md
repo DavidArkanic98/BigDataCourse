@@ -40,18 +40,15 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 
 ### M4 - Day 4 - Thursday
 
-- [David Muñoz -  SpaceX - 1 - Data Collection Api v2](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%204/%C3%81lvaro%20Hern%C3%A1ndez%20-%20%20SpaceX%20-%201%20-%20Data%20Collection%20Api%20v2.ipynb)
+- [David Muñoz -  SpaceX - 1 - Data Collection Api v2](https://github.com/DavidArkanic98/BigDataCourse/blob/main/Day%204/David%20Mu%C3%B1oz%20SpaceX%20-%201%20-%20Data%20Collection%20Api%20v2.ipynb)
 > Notebook para generar y manipular dataframes con datos obtenidos consumiendo la API de Space X
-- [David Muñoz -  SpaceX - 3 -EDA Using SQL](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%204/%C3%81lvaro%20Hern%C3%A1ndez%20-%20%20SpaceX%20-%203%20-EDA%20Using%20SQL.ipynb)
+- [David Muñoz -  SpaceX - 3 -EDA Using SQL](https://github.com/DavidArkanic98/BigDataCourse/blob/main/Day%204/David%20Mu%C3%B1oz%20SpaceX%20-%203%20-EDA%20Using%20SQL.ipynb)
 > Notebook para conectarse a una base de datos SQL y ejecutar sentencias SQL desde Python con la librería SQLAlchemy
 
 ### M4 - Day 5 - Friday
 
-- [David Muñoz - Ejercicios Repaso Python](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%205/%C3%81lvaro%20Hern%C3%A1ndez%20-%20Ejercicios%20Repaso%20Python.ipynb)
+- [David Muñoz - Ejercicios Repaso Python]()
 > Notebook con ejercicios de repaso de los conceptos básicos de Python
-- *En proceso* [David Muñoz - M4 - 07 - Numpy 1D](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%205/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M4%20-%2007%20-%20Numpy%201D.ipynb)
-> Notebook con ejercicios para iniciarse con la libería de Numpy
-- *En proceso* [David Muñoz - SpaceX - 2 - EDA](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%205/%C3%81lvaro%20Hern%C3%A1ndez%20-%20SpaceX%20-%202%20-%20EDA.ipynb
 
 ## Module 6 - Cloud & Big Data Architectures
 
